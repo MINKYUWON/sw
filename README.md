@@ -1,6 +1,4 @@
 # 한림대학교 간호대학 간호학과
-개인 이력사항
-
 ---
 
 민규원
@@ -31,7 +29,7 @@
 |교육학의 이해|교육철학|3|
 |데이터활용능력|컴퓨터활용능력|2|
 
-github address: [mkw][github]
+github address: [MINKYUWON][github]   
 [github]:http://github.com/MINKYUWON
 
 
